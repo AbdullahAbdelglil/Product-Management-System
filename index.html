@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>Online Store</title>
+</head>
+<body>
+<div class="crud">
+<div class="head">
+    <h2><b>cruds page</b></h2>
+    <p><b>product management system</b></p>
+</div>
+
+<div class="input">
+<input type="text" id="title" placeholder="Title : ">
+<div class="price">
+    <input onkeyup="getTotal()" type="number" id="price" placeholder="Price : "></input>
+    <input onkeyup="getTotal()" type="number" id="taxes" placeholder="taxes : "></input>
+    <input onkeyup="getTotal()" type="number" id="ads" placeholder="ads : "></input>
+    <input onkeyup="getTotal()" type="number" id="discount" placeholder="discount : "></input>
+    <small id="total"></small>
+</div>
+<input type="number" id="count" placeholder="Count : "></input>
+<input type="text" id="category" placeholder="Category : ">
+<button id="submit">Create</button>
+</div>
+<div class="output">
+</div>
+<div class="Search">
+    <input type="text" onkeyup="searchData(this.value.toLowerCase())" id="search" placeholder="Search By Title: ">
+    <div class="btnsearch">
+        <button onclick="getSerchMood(this.id)" id="ttl">Search By Title</button>
+        <button onclick="getSerchMood(this.id)" id="catgry">Search By Category</button>
+        
+    </div>
+</div>
+<div id="deleteall">
+
+</div>
+<div><table>
+    <tr>
+        <th>ID</th>
+        <th>TITLE</th>
+        <th>PRICE</th>
+        <th>TAXES</th>
+        <th>ADS</th>
+        <th>DISCOUNT</th>
+        <th>TOTAL</th>
+        <th>COUNT</th>
+        <th>CATEGORY</th>
+        <th>UPDATE</th>
+        <th>DELETE</th>
+        <th>-1</th>
+    </tr>
+
+    <tbody id="tboby">
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table></div>
+</div>
+<script src="JavaScript/main.js"></script>
+</body>
+</html>
