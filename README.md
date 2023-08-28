@@ -56,7 +56,10 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 - [Click Here](https://www.canva.com/design/DAFs3KkGP3c/SDJnWmpT4jhxKsYgympP6Q/edit?utm_content=DAFs3KkGP3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Screenshots
-<picture align="center"><img src = "https://github.com/AbdullahAbdelglil/Product-Management-System/blob/main/Project-Screenshot/" width = 600px></picture>
+<picture align="center">
+<img src = "https://github.com/AbdullahAbdelglil/Product-Management-System/blob/main/Project-Screenshot/Screenshot%20(39).png" width = 400px>
+<img src = "https://github.com/AbdullahAbdelglil/Product-Management-System/blob/main/Project-Screenshot/Screenshot%20(40).png" width = 400px>
+</picture>
 ## Usage
 
 1. Clone the repository using the following command:
