@@ -54,8 +54,13 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 
 ## Demo
 
-![Demo](demo.gif) <!-- Insert a screenshot or GIF showcasing your application's interface here -->
+![Demo](https://www.canva.com/design/DAFs3KkGP3c/SDJnWmpT4jhxKsYgympP6Q/edit?utm_content=DAFs3KkGP3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
+
+## Scrennshot 
+<p align="center">
+  <picture><img src="Project-Screenshot/Screenshot (39).jpg"></picture>
+</p>
 ## Usage
 
 1. Clone the repository using the following command:
