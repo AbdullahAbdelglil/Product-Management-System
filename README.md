@@ -16,7 +16,6 @@ Experience a product management system through this user-friendly CRUD app. Deve
 - [Installation](#installation)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
