@@ -53,12 +53,8 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 - **Intuitive Interface**: The application's interface is designed for a seamless and user-friendly product management experience.
 
 ## Demo
-- [Link on Canva]("https://www.canva.com/design/DAFs3KkGP3c/SDJnWmpT4jhxKsYgympP6Q/edit?utm_content=DAFs3KkGP3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")
+- [Link on Canva](https://www.canva.com/design/DAFs3KkGP3c/SDJnWmpT4jhxKsYgympP6Q/edit?utm_content=DAFs3KkGP3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Scrennshot 
-<p align="center">
-  <picture><img src="Project-Screenshot/Screenshot (39).jpg"></picture>
-</p>
 ## Usage
 
 1. Clone the repository using the following command:
