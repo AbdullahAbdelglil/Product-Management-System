@@ -23,32 +23,25 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 ## Features
 
 ### Create
-
-- **Create Products**: Effortlessly add new products by filling out a form and clicking the 'Create' button.
+Effortlessly add new products by filling out a form and clicking the 'Create' button.
 
 ### Read
-
-- **View Products**: Easily view existing products along with their details within the application.
+Easily view existing products along with their details within the application.
 
 ### Update
-
-- **Update Products**: Modify the information of existing products using the 'Update' button.
+Modify the information of existing products using the 'Update' button.
 
 ### Delete
-
-- **Delete Products**: Remove products with a single click using the 'Delete' button associated with each product.
+Remove products with a single click using the 'Delete' button associated with each product.
 
 ### Search
-
-- **Search Products**: Use the search bar to quickly locate specific products, enhancing navigational efficiency.
+Use the search bar to quickly locate specific products, enhancing navigational efficiency.
 
 ### Local Storage
-
-- **Secure Local Storage**: All product data is stored locally within the browser's storage, ensuring data persistence.
+All product data is stored locally within the browser's storage, ensuring data persistence.
 
 ### User-Friendly Interface
-
-- **Intuitive Interface**: The application's interface is designed for a seamless and user-friendly product management experience.
+The application's interface is designed for a seamless and user-friendly product management experience.
 
 
 ## Technologies
