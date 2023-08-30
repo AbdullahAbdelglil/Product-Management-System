@@ -6,6 +6,7 @@ Experience a product management system through this user-friendly CRUD app. Deve
 
 - [Description](#description)
 - [Features](#features)
+- [Technologies](#technologies)
   - [Create](#create)
   - [Read](#read)
   - [Update](#update)
@@ -13,8 +14,6 @@ Experience a product management system through this user-friendly CRUD app. Deve
   - [Search](#search)
 - [Demo](#demo)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Technologies](#technologies)
 - [Contributing](#contributing)
 
 ## Description
@@ -51,14 +50,19 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 
 - **Intuitive Interface**: The application's interface is designed for a seamless and user-friendly product management experience.
 
-## Demo
-- [Click Here](https://www.canva.com/design/DAFs3KkGP3c/SDJnWmpT4jhxKsYgympP6Q/edit?utm_content=DAFs3KkGP3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Screenshots
-<p align="center">
-<img src = "https://github.com/AbdullahAbdelglil/Product-Management-System/blob/main/Project-Screenshot/Screenshot%20(39).png" width = 400px>
-<img src = "https://github.com/AbdullahAbdelglil/Product-Management-System/blob/main/Project-Screenshot/Screenshot%20(40).png" width = 400px>
-</p>
+## Technologies
+
+- **HTML**: Provides the structure and layout for the application.
+- **CSS**: Adds styling and enhances the visual appeal.
+- **JavaScript**: Implements interactive features, including product CRUD operations, searching, and local storage management.
+
+
+## Demo
+
+
+https://github.com/AbdullahAbdelglil/Product-Management-System/assets/118194521/9d6e8465-a58a-411b-8333-3da02ea3f15b
+
 
 ## Usage
 
@@ -70,15 +74,6 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 
 3. Open the `index.html` file in a web browser to start using the Product Management System.
 
-## Installation
-
-There's no complex setup required for this project. The application runs directly in the browser. Simply follow the instructions in the 'Usage' section to get started.
-
-## Technologies
-
-- **HTML**: Provides the structure and layout for the application.
-- **CSS**: Adds styling and enhances the visual appeal.
-- **JavaScript**: Implements interactive features, including product CRUD operations, searching, and local storage management.
 
 ## Contributing
 
