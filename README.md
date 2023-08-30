@@ -62,6 +62,8 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 
 
 
+https://github.com/AbdullahAbdelglil/Product-Management-System/assets/118194521/008716eb-daaf-4de1-af1a-79e48d7a02a6
+
 
 
 ## Usage
@@ -75,6 +77,7 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 3. Open the `index.html` file in a web browser to start using the Product Management System.
 
 
+
 ## Contributing
 
 Contributions are welcome and appreciated! To contribute to this project:
@@ -84,4 +87,3 @@ Contributions are welcome and appreciated! To contribute to this project:
 3. Make your changes, commit them: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request and describe your changes.
-
