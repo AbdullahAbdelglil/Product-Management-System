@@ -61,7 +61,7 @@ This CRUD (Create, Read, Update, Delete) application serves as a user-friendly P
 ## Demo
 
 
-https://github.com/AbdullahAbdelglil/Product-Management-System/assets/118194521/9d6e8465-a58a-411b-8333-3da02ea3f15b
+
 
 
 ## Usage
